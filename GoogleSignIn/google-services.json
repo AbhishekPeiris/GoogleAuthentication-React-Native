@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630685054297",
+    "project_id": "signin-2976b",
+    "storage_bucket": "signin-2976b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630685054297:android:0b8bd1e880e86132680848",
+        "android_client_info": {
+          "package_name": "com.abhishekpeiris2001.GoogleSignIn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630685054297-amu5ggd26n51cftu3d7n0rdkkiokfdj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishekpeiris2001.GoogleSignIn",
+            "certificate_hash": "114112051faeac5db7a330505ed273804de1ff82"
+          }
+        },
+        {
+          "client_id": "630685054297-lt54iil14ak5fndtn3h02d6r5l0e268g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishekpeiris2001.GoogleSignIn",
+            "certificate_hash": "38cec583bc82b36520d320b6aabab67f99e4c299"
+          }
+        },
+        {
+          "client_id": "630685054297-0u3m93ebfgkcknl17j5abtm1j7vppfu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFESvfKUEKDXPZNdYmlrjWPlin1WTbnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630685054297-0u3m93ebfgkcknl17j5abtm1j7vppfu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
